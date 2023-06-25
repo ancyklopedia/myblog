@@ -1,0 +1,23 @@
+.about-card{
+    margin:3rem;
+    padding:3rem;
+    border-radius:20px;
+    background: linear-gradient(-45deg, #fb7bfd 0%, #65e2e4 100% );
+    box-shadow: 10px 10px 15px 0 rgba(133, 133, 133, 0.9);
+    display:flex
+}
+
+.about-title{
+    font-weight: 800;
+    font-size: xxx-large;
+    writing-mode:vertical-lr;
+    font-variant: small-caps;
+    text-align: center;
+    text-shadow: 10px 10px 2px #9deeef;
+}
+
+.about-description{    
+    font-size:xx-large;
+    text-align: justify;
+    text-justify: inter-word
+}

@@ -1,0 +1,14 @@
+.card-comments-page{
+    margin:1rem;
+}
+
+.card-single-comment {
+    border:1px dashed grey;
+    border-radius: 3rem;
+    padding:1rem 2rem;
+    margin:1rem 0;
+}
+
+.email-comments-page {
+    font-style: italic;
+}

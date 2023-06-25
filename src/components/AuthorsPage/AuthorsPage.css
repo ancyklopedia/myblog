@@ -1,0 +1,37 @@
+.author-card{
+    margin:3rem;
+    padding:1rem;
+    border-radius:20px;
+    background: linear-gradient(-45deg, #fb7bfd 0%, #65e2e4 100% );
+    box-shadow: 10px 10px 15px 0 rgba(133, 133, 133, 0.9);
+    display: flex;
+
+}
+
+.author-page-name{
+    font-weight: 800;
+    font-size: xxx-large;
+    writing-mode:vertical-lr;
+    font-variant: small-caps;
+    text-align: center;
+    text-shadow: 10px 10px 2px #9deeef;
+}
+
+.image-div-authors {
+    display:grid;
+    align-content: center;
+}
+
+.author-image{
+    height: 15rem;
+    width:15rem;    
+    border-radius: 1rem;
+    object-fit:cover;
+}
+
+.author-desc{
+    font-size:medium;
+    padding:2rem;
+    text-align: justify;
+    text-justify: inter-word;
+}
